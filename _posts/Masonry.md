@@ -1,5 +1,3 @@
-# Masonry Practice Guidelines
-
 As we all know, 'Masonry' is the most popular third-part Automatic Layout Framework. A more interesting thing is that some new developers don't know much about NSLayout Constraint, in their opinion, 'Masonry' equals 'Auto Layout' in iOS/OSX.😄
 
 This article mainly focus on practice. If you are a Autolayout beginner, or you want to know how to construct contraints for your views, this article will help you.
