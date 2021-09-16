@@ -32,6 +32,13 @@ Let's see following codes about the above blue view using 'Masonry' and 'Frame b
 // Frame based layout
 blueView.frame = CGRectmake(3.0f, 2.0f, 10.0f, 11.0f);
 ```
+---
+layout: post
+title: Masonry Practice Guidelines
+subtitle: how to use Masonry
+categories: markdown
+tags: [ios]
+---
 
 `You could easily find that the code in 'Masonry' all described the **relationship** with the gray view. However, the code in 'Frame based layout' states the exact frame in **coordinate**.
 
